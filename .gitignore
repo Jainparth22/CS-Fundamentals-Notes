@@ -1,0 +1,10 @@
+# .gitignore for CS-Fundamentals-Notes
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.pdf
