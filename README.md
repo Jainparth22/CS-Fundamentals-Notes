@@ -122,6 +122,19 @@
 | [01_llm_and_transformers.md](GenAI/01_llm_and_transformers.md) | LLM basics, prompting, fine-tuning/LoRA, evaluation, serving |
 | [02_rag_langchain_agents.md](GenAI/02_rag_langchain_agents.md) | RAG, hybrid retrieval, rerank, LangChain, LangGraph, guardrails |
 
+### ❓ Interview Question Bank (`QuestionBank/`)
+| File | Topics |
+|------|--------|
+| [README.md](QuestionBank/README.md) | 150 most-asked questions, sources, and practice links |
+| [01_python_25.md](QuestionBank/01_python_25.md) | 25 Python questions |
+| [02_sql_25.md](QuestionBank/02_sql_25.md) | 25 SQL questions |
+| [03_flask_fastapi_20.md](QuestionBank/03_flask_fastapi_20.md) | 20 Flask and FastAPI questions |
+| [04_redis_celery_18.md](QuestionBank/04_redis_celery_18.md) | 18 Redis and Celery questions |
+| [05_system_design_20.md](QuestionBank/05_system_design_20.md) | 20 system design questions |
+| [06_ml_20.md](QuestionBank/06_ml_20.md) | 20 machine learning questions |
+| [07_dl_pytorch_10.md](QuestionBank/07_dl_pytorch_10.md) | 10 deep learning and PyTorch questions |
+| [08_genai_rag_12.md](QuestionBank/08_genai_rag_12.md) | 12 GenAI, LLM and RAG questions |
+
 ---
 
 ## How to Use This Repo
@@ -149,3 +162,4 @@
 - [ ] ML — 0/2 chapters done
 - [ ] DL — 0/2 chapters done
 - [ ] GenAI — 0/2 chapters done
+- [ ] Question bank — 0/150 questions revised
