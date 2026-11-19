@@ -135,6 +135,14 @@
 | [07_dl_pytorch_10.md](QuestionBank/07_dl_pytorch_10.md) | 10 deep learning and PyTorch questions |
 | [08_genai_rag_12.md](QuestionBank/08_genai_rag_12.md) | 12 GenAI, LLM and RAG questions |
 
+### Study Notes: DSA, Python, SQL (`Study-Notes/`)
+| Folder | Topics |
+|------|--------|
+| [DSA-Fundamentals](Study-Notes/DSA-Fundamentals/) | Complexity, arrays, hashing, sorting, trees, heaps, graphs, DP, interview method |
+| [Python-Interview](Study-Notes/Python-Interview/python_notes.md) | Python semantics, OOP and MRO, concurrency, patterns |
+| [SQL-Interview](Study-Notes/SQL-Interview/sql_notes.md) | Joins, window functions, indexes, isolation levels, problems |
+| [README](Study-Notes/README.md) | How these were made and their limits |
+
 ---
 
 ## How to Use This Repo
